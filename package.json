@@ -1,0 +1,21 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "leaf": "^1.0.1",
+    "leaflet": "^1.9.4",
+    "mongoose": "^8.6.0",
+    "pg": "^8.12.0"
+  }
+}
